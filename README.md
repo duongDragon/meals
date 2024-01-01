@@ -1,8 +1,10 @@
+<img width="383" alt="Screenshot 2024-01-01 at 3 24 52 pm" src="https://github.com/duongDragon/meals/assets/102270646/79e37612-5ec8-40d6-a492-6665bdd153e5">
 # meals
 
 A new Flutter project.
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
