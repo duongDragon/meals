@@ -16,15 +16,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# meals
 
 # Managing App-wide State [MEALS APP]
 You learned about providers with help of the Riverpod package
 You have for managing global state or cross widget state.
 States that affects multiple widgets
 => You now have a powerful cross widget state management tool which makes sure that you don't have to pass data and functions through all your widgets
-<img src="/Users/super_dash/Documents/development/flutter_projects/meals/readme/1.png">
-<img src="/Users/super_dash/Documents/development/flutter_projects/meals/readme/2.png">
+<img width="1092" alt="Screenshot 2024-01-09 at 10 11 28 pm" src="https://github.com/duongDragon/meals/assets/102270646/dac37999-964e-40ce-80ad-5ff6b5b78ae0">
+<img width="1098" alt="Screenshot 2024-01-09 at 10 11 50 pm" src="https://github.com/duongDragon/meals/assets/102270646/62b1fbef-4b2a-4e62-8d0f-90ffb603d1c6">
+
 
 "riverpod" vs "provider" - There are many Alternatives!
 Older versions of this course used the "provider" package instead of "riverpod" for app-wide state management.
