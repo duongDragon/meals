@@ -34,3 +34,7 @@ riverpod is a library created by the same developer as the provider library - it
 That's why this course uses riverpod.
 
 As mentioned in the section, there generally are many other alternative packages you could use instead - for example Redux or Bloc. This page (https://docs.flutter.dev/data-and-backend/state-mgmt/options) from the official documentation gives you a good overview of available packages - definitely feel free to play around with them and find the package your personally like most.
+
+# Adding Animations
+<img width="1427" alt="Screenshot 2024-01-11 at 6 23 09 am" src="https://github.com/duongDragon/meals/assets/102270646/695a6334-7661-48d9-9457-0e2f1c80a865">
+
