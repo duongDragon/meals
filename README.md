@@ -37,4 +37,5 @@ As mentioned in the section, there generally are many other alternative packages
 
 # Adding Animations
 <img width="1427" alt="Screenshot 2024-01-11 at 6 23 09 am" src="https://github.com/duongDragon/meals/assets/102270646/695a6334-7661-48d9-9457-0e2f1c80a865">
+<img width="1427" alt="Screenshot 2024-01-11 at 6 23 09 am" src="https://github.com/duongDragon/meals/assets/102270646/ca9e77cf-b441-4212-ac64-45ab39433476">
 
