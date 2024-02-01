@@ -32,7 +32,6 @@ class TabsScreen extends ConsumerStatefulWidget {
 
 class _TabsScreenState extends ConsumerState<TabsScreen> {
   int _selectedPageIndex = 0;
-  Map<Filter, bool> _selectedFilters = kInitialFilters;
 
   void _selectPage(int index) {
     setState(() {
@@ -56,8 +55,6 @@ class _TabsScreenState extends ConsumerState<TabsScreen> {
   Widget build(BuildContext context) {
     // ref property set up listeners to our providers (added by riverpod)
     // watch => the build method executes again as our datat change (always use watch insted read)
-    final meals = ref.watch(mealsProvider);
-    final activeFilters = ref.watch(filtersProvider);
     final availableMeals = ref.watch(filteredMealsProvider);
 
     Widget activePage = CategoriesScreen(
