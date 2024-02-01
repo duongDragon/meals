@@ -38,5 +38,4 @@ As mentioned in the section, there generally are many other alternative packages
 # Adding Animations
 <img width="1427" alt="Screenshot 2024-01-11 at 6 23 09 am" src="https://github.com/duongDragon/meals/assets/102270646/695a6334-7661-48d9-9457-0e2f1c80a865">
 <img width="1389" alt="Screenshot 2024-01-11 at 6 27 01 am" src="https://github.com/duongDragon/meals/assets/102270646/4e479ffc-ab65-4fe5-8358-ad0d4028841d">
-
-
+Hero widget can be used to easyly animate a widget accoss different screens hear from meal item
